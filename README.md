@@ -27,6 +27,7 @@ Sam Spade is the name of a Windows software tool designed to assist in tracking 
 JPS Virus Maker:
 JPS Virus Maker is an application that allows you to control various Windows functions. It is a virus that can be installed and removed easily. It doesn't delete data or provide personal data.
 This is a small but very useful software. With the help of this you can create any type of trojans and program it to do whatever you want.
+
 DELmE Virus Maker:
 DELmE’s Batch Virus Generator is an amazing virus creation program with lots of options to infect the victim’s PC such as formatting C: drive, deleting all files in Hard Disk Drive, disabling admin Privileges, cleaning registry, changing home page, killing tasks, disabling/removing antivirus and firewall and lots more.
 The software has Virus. Because virus can be created with virus infected file.
