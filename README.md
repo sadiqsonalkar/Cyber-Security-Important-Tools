@@ -1,5 +1,5 @@
 # Cyber-Security-Important-Tools
-Here are some of the most important cyber security tools: 
+Here are some of the most important cyber security tools explained: 
 # 1. Kali Linux:
 Kali Linux tutorial covers both fundamental and advanced hacking and penetration testing concepts. Our Kali Linux tutorial is designed for both beginners and professionals. Kali Linux tutorial covers all the areas associated with hacking and penetration testing. We'll start by learning how to install the required software. After this, we will learn the network configuration, basic commands and tools for hacking, gaining access, post -exploitation, and website hacking.
 
